@@ -1,4 +1,4 @@
-# Project Name
+# CNN based Skin Cancer Detection
 >To build a CNN based model which can accurately detect melanoma..
 
 
